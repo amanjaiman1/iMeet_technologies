@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer className="items-center justify-center text-center">
-        © 2019 Copyright:
+        © 2023 Copyright:
     </footer>
   )
 }
